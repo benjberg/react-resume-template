@@ -105,14 +105,9 @@
         "category":"full backend project ",
         "image":"Github.png",
         "url":"https://github.com/benjberg/BE"
-      },
-      
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website ",
-        "image":"resumesite.png",
-        "url":"http://www.timbakerdev.com"
       }
+      
+     
      
     ]
   },
