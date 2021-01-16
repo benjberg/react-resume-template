@@ -45,16 +45,27 @@
     ],
     "work":[
       {
+        "company":"Parlay",
+        "title":"Fullstack Developer",
+        "years":"november 2020 - Present",
+        "description":"Work as team lead in the web development side of the business, communicating with UI/UX developers as well as the Data Scientist and non technical members to achieve product visions. Build front end components to FIgma specifications utilizing Angular/CSS/HTML/Bootstrap as well as deploying through AWS Amplify. Built backend collections with MongoDB to handle data storage, connecting to the front end with ExpressJs and deploying through Heroku" },
+      {
         "company":"Lambda",
         "title":"Team Lead",
-        "years":"April 2020 - Present",
+        "years":"April 2020 - November 2020",
         "description":"Driven team to reach 100% completion rate of monthly sprints. Offer guidance and technical help when a member is having a problem be it with the environment or with their code. Act as a liaison to the upper levels of management."
       },
       {
         "company":"EnCon",
         "title":"Fullstack Web Developer",
         "years":"April 2020 - June 2020",
-        "description":"Served as a Team Lead and developer for EnCon working on both the front and back end. Developed front end components based on figma wire-frames using React and several libraries (Reacthook-forms, React-router, Re-chart and React-calendar) to ensure functionality and feature flow. Created and deployed backend through heroku with PostgreSQL. I created all table and data structures as well as API to communicate with front end to store and display user info. "
+        "description":"Served as a Team Lead and developer for EnCon working on both the front and back end. Developed front end components based on figma wire-frames using React and several libraries (React-hook-forms, React-router, Re-chart and React-calendar) to ensure functionality and feature flow. Created and deployed backend through heroku with PostgreSQL. I created all table and data structures as well as API to communicate with front end to store and display user info."
+      },
+      {
+        "company":"IBM",
+        "title":"Programmer",
+        "years":"August 2010 - February 2013",
+        "description":"Developed programs to automate atomic force microscope testing. Solely responsible for training and onboarding for new hires. "
       }
     ],
     "skills":[
@@ -64,12 +75,16 @@
       },
       {
         "name":"JavaScript",
-        "level":"70%"
+        "level":"80%"
       },
+      {"name":"Python3",
+      "level": "80%"},
       {
         "name":"ReactJs",
         "level":"70%"
       },
+      {"name": "Angular2+",
+      "level": "80%"},
       {
         "name":"CSS/LESS/SASS",
         "level":"70%"
@@ -86,23 +101,39 @@
         "name":"PostgreSQL",
         "level":"80%"
       }, 
+      {"name": "MongoDB",
+      "level": "80%"},
       {
         "name": "Redux",
-        "level": "65%"
-      }
+        "level": "70%"
+      },
+      {"name": "AWS",
+      "level": "85%"}
     ]
   },
   "portfolio":{
     "projects": [
       {
+        "title":"Parlay",
+        "category":"Fullstack MEAN web app deployed with Heroku and AWS",
+        "image":"parlayCS.png",
+        "url":"https://www.parlay.cash"
+      },
+      {
+        "title":"TRVL",
+        "category":"Fullstack MEAN web app deployed with Heroku and AWS",
+        "image":"TRVL.png",
+        "url":"https://master.d343k9r5s7puik.amplifyapp.com/"
+      },
+      {
         "title":"Encon",
-        "category":"Encon energy consumption full stack app",
+        "category":"Encon energy consumption full stack React/Node/Express/Postgresql",
         "image":"Encon.png",
         "url":"https://master.d3dr1o3e9t60pz.amplifyapp.com/"
       },
       {
         "title":"MedCab Backend",
-        "category":"full backend project ",
+        "category":"full backend project with CRUD ops built with Postgresql",
         "image":"github.png",
         "url":"https://github.com/benjberg/BE"
       }
